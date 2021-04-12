@@ -10,11 +10,6 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * Jwt参数配置
- * @author hupeng
- * @date 2019年11月28日
- */
 @Data
 @Configuration
 @ConfigurationProperties(prefix = "jwt")

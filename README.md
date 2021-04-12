@@ -8,6 +8,8 @@ SpringBoot2+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城�
 项目采用分模块开发方式
 - yshop-common            公共模块
 - yshop-admin             后台模块
-- yshop-component         第三方工具模块
-- yshop-generator         代码生成模块
 - yshop-mybatis           mybatisPlus
+
+#### 项目整合
+1、swagger、log、mybatis
+2、Token、权限管理(菜单、角色、用户、部门、岗位)
