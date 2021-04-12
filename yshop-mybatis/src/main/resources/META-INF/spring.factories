@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kimpov.config.MetaHandler,\
+    com.kimpov.config.MybatisConfig
