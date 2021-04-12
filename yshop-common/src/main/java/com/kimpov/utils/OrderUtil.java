@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.utils;
 
 import cn.hutool.core.date.DateTime;
@@ -17,7 +12,7 @@ import java.util.Random;
 
 /**
  * @ClassName OrderUtil
- * @Author hupeng <610796224@qq.com>
+ *  <610796224@qq.com>
  * @Date 2019/9/13
  **/
 public class OrderUtil {

@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.modules.system.service;
 
 import com.kimpov.common.service.BaseService;
@@ -17,10 +12,6 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author hupeng
- * @date 2020-05-14
- */
 public interface JobService extends BaseService<Job> {
 
     /**

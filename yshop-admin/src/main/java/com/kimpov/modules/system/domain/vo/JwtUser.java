@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.modules.system.domain.vo;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -17,10 +12,6 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.stream.Collectors;
 
-/**
- * @author hupeng
- * @date 2018-11-23
- */
 @Getter
 @AllArgsConstructor
 public class JwtUser implements UserDetails {

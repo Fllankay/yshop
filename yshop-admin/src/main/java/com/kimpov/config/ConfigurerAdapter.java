@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.config;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -19,8 +14,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * WebMvcConfigurer
  *
- * @author hupeng
- * @date 2018-11-30
  */
 @Configuration
 @EnableWebMvc

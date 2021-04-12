@@ -31,7 +31,12 @@
             <artifactId>yshop-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-
+        <!--日志模块-->
+        <dependency>
+            <groupId>com.kimpov</groupId>
+            <artifactId>yshop-logging</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <!--jwt-->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>

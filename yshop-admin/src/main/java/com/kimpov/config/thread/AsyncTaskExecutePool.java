@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.config.thread;
 
 import lombok.extern.slf4j.Slf4j;
@@ -17,8 +12,6 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * 异步任务线程池装配类
- * @author https://juejin.im/entry/5abb8f6951882555677e9da2
- * @date 2019年10月31日15:06:18
  */
 @Slf4j
 @Configuration

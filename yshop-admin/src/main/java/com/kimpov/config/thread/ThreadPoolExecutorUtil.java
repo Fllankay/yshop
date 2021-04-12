@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.config.thread;
 
 
@@ -15,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 用于获取自定义线程池
- * @author hupeng
+ *
  * @date 2019年10月31日18:16:47
  */
 public class ThreadPoolExecutorUtil {

@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.enums;
 
 import lombok.AllArgsConstructor;
@@ -12,7 +7,7 @@ import lombok.Getter;
 import java.util.stream.Stream;
 
 /**
- * @author hupeng
+ *
  * 优惠券相关枚举
  */
 @Getter

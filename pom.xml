@@ -7,6 +7,7 @@
         <module>yshop-admin</module>
         <module>yshop-mybatis</module>
         <module>yshop-common</module>
+        <module>yshop-logging</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

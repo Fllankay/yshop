@@ -1,9 +1,4 @@
-/**
- * Copyright (C) 2018-2020
- * All rights reserved, Designed By www.yixiang.co
- * 注意：
- * 本软件为www.yixiang.co开发研制
- */
+
 package com.kimpov.modules.system.service.impl;
 
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
@@ -40,7 +35,7 @@ import java.util.stream.Collectors;
 //import org.springframework.cache.annotation.Cacheable;
 
 /**
- * @author hupeng
+ *
  * @date 2020-05-14
  */
 @Service
